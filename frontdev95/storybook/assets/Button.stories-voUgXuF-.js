@@ -1,0 +1,3 @@
+import{j as s}from"./jsx-runtime-vNq4Oc-g.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";const r=({name:t})=>s.jsx("button",{children:t});try{r.displayName="Button",r.__docgenInfo={description:"",displayName:"Button",props:{name:{defaultValue:null,description:"",name:"name",required:!0,type:{name:"string"}}}}}catch{}const d={component:r},e={render:()=>s.jsx(r,{name:"Holaaa"})};var a,o,n;e.parameters={...e.parameters,docs:{...(a=e.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  render: () => <Button name="Holaaa" />
+}`,...(n=(o=e.parameters)==null?void 0:o.docs)==null?void 0:n.source}}};const i=["Primary"];export{e as Primary,i as __namedExportsOrder,d as default};
